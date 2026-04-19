@@ -64,27 +64,7 @@ It transforms raw cricket datasets into **meaningful insights** about player per
 
 ---
 
-## 📊 Dashboard Preview
 
-### 📌 Overview Page
-
-<p align="center">
-  <img src="images/dashboard_overview.png" width="700"/>
-</p>
-
-### 👤 Player Analysis
-
-<p align="center">
-  <img src="images/player_analysis.png" width="700"/>
-</p>
-
-### 🏏 Team Analysis
-
-<p align="center">
-  <img src="images/team_analysis.png" width="700"/>
-</p>
-
----
 
 ## 🧠 Data Modeling
 
